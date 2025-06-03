@@ -123,14 +123,6 @@
         ]
     },
     {
-        "name": "Profit: +$4.6K",
-        "address": "Ks76ed5CMgMR9BbaWhambZixPKZURVxdtCQTgDeoH2F",
-        "emoji": "🥏",
-        "tags": [
-            "🏆Total Profit: 🟢 +$298.2K"
-        ]
-    },
-    {
         "name": "Profit: -$37.2K",
         "address": "8zFZHuSRuDpuAR7J6FzwyF3vKNx4CVW3DFHJerQhc7Zd",
         "emoji": "🐧",
@@ -412,15 +404,6 @@
         ]
     },
     {
-        "name": "Profit: -$1.8K",
-        "address": "77n6X7LtGy5AZprsvjZu1eaekJpxqLeVRZLPJZdBYyg9",
-        "emoji": "💚",
-        "tags": [
-            "vivaespana.sol",
-            "🏆Total Profit: 🟢 +$362.8K"
-        ]
-    },
-    {
         "name": "Profit: +$15.5K",
         "address": "5B79fMkcFeRTiwm7ehsZsFiKsC7m7n1Bgv9yLxPp9q2X",
         "emoji": "😻",
@@ -621,15 +604,6 @@
         ]
     },
     {
-        "name": "Profit: -$10.4K",
-        "address": "4cXnf2z85UiZ5cyKsPMEULq1yufAtpkatmX4j4DBZqj2",
-        "emoji": "🦡",
-        "tags": [
-            "🏆Total Profit: 🟢 +$436.3K",
-            "@Waiter1x"
-        ]
-    },
-    {
         "name": "Profit: +$20.2K",
         "address": "9PNrgpgVcMJhpEUA37ZLqGbttMYzXGnZX2s3AzZUYk4c",
         "emoji": "🐾",
@@ -760,15 +734,6 @@
         ]
     },
     {
-        "name": " Profit: +$36.5K",
-        "address": "GM7Hrz2bDq33ezMtL6KGidSWZXMWgZ6qBuugkb5H8NvN",
-        "emoji": "🧳",
-        "tags": [
-            "@beaverd",
-            "🏆Total Profit: 🟢 +$344K"
-        ]
-    },
-    {
         "name": "Profit: -$16.9K",
         "address": "DYmsQudNqJyyDvq86XmzAvrU9T7xwfQEwh6gPQw9TPNF",
         "emoji": "🌒",
@@ -798,15 +763,6 @@
         "emoji": "⭐️",
         "tags": [
             "🏆Total Profit: 🟢 +$147.9K"
-        ]
-    },
-    {
-        "name": "Profit: -$6.6K",
-        "address": "5CPYGy2F3hdBE5b2JXnXwbHmxL3rnGX1Lxp6K72zpKc7",
-        "emoji": "🌌",
-        "tags": [
-            "@MidCurveMortal",
-            "🏆Total Profit: 🟢 +$186.1K"
         ]
     },
     {
@@ -919,14 +875,6 @@
         ]
     },
     {
-        "name": "Profit: -$31.7K",
-        "address": "4EnSpdCmGBJKFuDpbHSMHLZunYcynvUUWM8H2dzqVHEC",
-        "emoji": "🈵",
-        "tags": [
-            "🏆Total Profit: 🟢 +$96.2K"
-        ]
-    },
-    {
         "name": "Profit: +$6K",
         "address": "GkMwdRuyyoJ8pbhzxJ9tUBK2ut6MemikV4Z5JhDUuiRE",
         "emoji": "🟩",
@@ -960,19 +908,11 @@
         ]
     },
     {
-        "name": "Profit: +$1.3K",
-        "address": "HHHqgzYPPiYEwj9Dp9aSA9CabJnSgjuLJP6B49Sjsiwb",
-        "emoji": "🟦",
-        "tags": [
-            "🏆Total Profit: 🟢 +$65.1K"
-        ]
-    },
-    {
         "name": "Profit: +$76.2K",
         "address": "GZVSEAajExLJEvACHHQcujBw7nJq98GWUEZtood9LM9b",
         "emoji": "🎐",
         "tags": [
-            "🏆Total Profit: 🟢 +$753.2K（+18.4%）"
+            "🏆Total Profit: 🟢 +$828.4K"
         ]
     },
     {
@@ -981,14 +921,6 @@
         "emoji": "🐸",
         "tags": [
             "🏆Total Profit: 🟢 +$1.5M"
-        ]
-    },
-    {
-        "name": "Profit: +$7.7K",
-        "address": "AAdiaJy2As7g3bnL1nByMPij5wbZAhzVws6vC9VRs9gg",
-        "emoji": "🍟",
-        "tags": [
-            "🏆Total Profit: 🟢 +$1.3M"
         ]
     },
     {
@@ -1004,7 +936,7 @@
         "address": "GD32KhxLkqoG7YtPN9CweUgq5Ws2RhdhHS8MYJbh78Dy",
         "emoji": "🏖️",
         "tags": [
-            "🏆Total Profit: 🟢 +$453.9K（+14.9%）"
+            "🏆Total Profit: 🟢 +$500.6K"
         ]
     },
     {
@@ -1020,24 +952,7 @@
         "address": "ADC1QV9raLnGGDbnWdnsxazeZ4Tsiho4vrWadYswA2ph",
         "emoji": "🩵",
         "tags": [
-            "🏆Total Profit: 🟢 +$223.3K（+10.3%）"
-        ]
-    },
-    {
-        "name": "Profit: +$3.2K",
-        "address": "2HxPkCY5j4DMj9t8kVzb6yYik9mMJDeYFsF6yQ9qTfQJ",
-        "emoji": "💌",
-        "tags": [
-            "🏆Total Profit: 🟢 +$615.3K",
-            "dazzlingfate.sol"
-        ]
-    },
-    {
-        "name": " Profit: +$97K",
-        "address": "j1opmdubY84LUeidrPCsSGskTCYmeJVzds1UWm6nngb",
-        "emoji": "🥉",
-        "tags": [
-            "🏆Total Profit: 🟢 +$390K（+2.9%）"
+            "🏆Total Profit: 🟢 +$238.5K"
         ]
     },
     {
@@ -1045,7 +960,7 @@
         "address": "2ezv4U5HmPpkt2xLsKnw1FyyGmjFBeW7c166p99Hw2xB",
         "emoji": "🫑",
         "tags": [
-            "🏆Total Profit: 🟢 +$2.2M（+25.5%）"
+            "🏆Total Profit: 🟢 +$2.2M"
         ]
     },
     {
@@ -1053,15 +968,7 @@
         "address": "HTM87R4mgjDdiF6Yfn8duK9vbDmZxiPCTRbGvm7eCAJY",
         "emoji": "🥶",
         "tags": [
-            "🏆Total Profit: 🟢 +$616.4K（+39.1%）"
-        ]
-    },
-    {
-        "name": "Profit: +$55.6K",
-        "address": "EfbbhahGNuhqEraRZXrwETfsaKxScngEttdQixWAW4WE",
-        "emoji": "🥑",
-        "tags": [
-            "🏆Total Profit: 🟢 +$2.7M"
+            "🏆Total Profit: 🟢 +$639.4K"
         ]
     },
     {
@@ -1078,7 +985,7 @@
         "emoji": "🥦",
         "tags": [
             "@624845293qqcom1",
-            "🏆Total Profit: 🟢 +$812.9K（+24.3%）"
+            "🏆Total Profit: 🟢 +$811K"
         ]
     },
     {
@@ -1110,7 +1017,7 @@
         "address": "8ZN71XTdVo8yRovnGLmNgW3Tgniw6A4J3JGLvPD686FP",
         "emoji": "🚵‍♀️",
         "tags": [
-            "🏆Total Profit: 🟢 +$412.4K（+22.5%）"
+            "🏆Total Profit: 🟢 +$414.8K"
         ]
     },
     {
@@ -1126,7 +1033,7 @@
         "address": "667AWcosaf1Yb75xf3DquQKqJUGwf6nDbJKfTZj8Tvmo",
         "emoji": "🦷",
         "tags": [
-            "🏆Total Profit: 🟢 +$203.1K（+8.8%）"
+            "🏆Total Profit: 🟢 +$248.6K"
         ]
     },
     {
@@ -1154,15 +1061,6 @@
         ]
     },
     {
-        "name": "Profit: +$68.9K",
-        "address": "3ZtwP8peTwTfLUF1rgUQgUxwyeHCxfmoELXghQzKqnAJ",
-        "emoji": "🧑‍🌾",
-        "tags": [
-            "https://x.com/cxlturesvz",
-            "🏆Total Profit: 🟢 +$945.5K"
-        ]
-    },
-    {
         "name": "Profit: +$21.3K",
         "address": "DdZG8dw12CsHjj2Ytfo1vKNPPoU4DEYSMSxdhPjo5U6N",
         "emoji": "🙆‍♂️",
@@ -1176,14 +1074,6 @@
         "emoji": "🦾",
         "tags": [
             "🏆Total Profit: 🟢 +$216.7K（"
-        ]
-    },
-    {
-        "name": "Profit: +$41.5K",
-        "address": "A5varGeQhWTNcBgqW4gBLQaMcZnopoxtFjk6uX8zKsvz",
-        "emoji": "🛌",
-        "tags": [
-            "🏆Total Profit: 🟢 +$274.8K"
         ]
     },
     {
@@ -1308,27 +1198,11 @@
         ]
     },
     {
-        "name": "Profit: +$23.1K",
-        "address": "BNFTAXWQGWX5VCHPe87D4hkK77QcMqPEHxr64brJCJYT",
-        "emoji": "🍺",
-        "tags": [
-            "🏆Total Profit: 🟢 +$3.5M"
-        ]
-    },
-    {
         "name": "Profit: +$24.7K",
         "address": "7R3KWHxzCf1eevnqHh4YymyTf4WsVJRwVHjrTGiV5zq1",
         "emoji": "🎐",
         "tags": [
             "🏆Total Profit: 🟢 +$1M"
-        ]
-    },
-    {
-        "name": "Profit: +$46.5K",
-        "address": "3tc4BVAdzjr1JpeZu6NAjLHyp4kK3iic7TexMBYGJ4Xk",
-        "emoji": "🎑",
-        "tags": [
-            "🏆Total Profit: 🟢 +$12.1M"
         ]
     },
     {
@@ -1396,15 +1270,6 @@
         "emoji": "🦄",
         "tags": [
             "🏆Total Profit: 🟢 +$203.4K"
-        ]
-    },
-    {
-        "name": "Profit: +$5.2K",
-        "address": "Gv7CnRo2L2SJ583XEfoKHKbmWK3wNoBDxVoJqMKJR4Nu",
-        "emoji": "🐺",
-        "tags": [
-            "🏆Total Profit: 🟢 +$74.8K",
-            "https://x.com/roboPBOC"
         ]
     },
     {
@@ -1531,14 +1396,6 @@
         ]
     },
     {
-        "name": "Profit: +$4.3K",
-        "address": "G4WD2vLiNV5GNUKTtr8657Hdm5o2YLdXrhTM3pXU8QyF",
-        "emoji": "💚",
-        "tags": [
-            "🏆Total Profit: 🟢 +$203K"
-        ]
-    },
-    {
         "name": "Profit: +$76.8K",
         "address": "EVnM4KfQ8Qn11Z9Rwg8E3u7JJ1eNgvPJLUEKVdoFJGmH",
         "emoji": "🍏",
@@ -1571,14 +1428,6 @@
         ]
     },
     {
-        "name": "Profit: +$41.2K",
-        "address": "BQNni1pDtHVxRYJTkZHMKRfHrmECYq7Xy19Pp3o1RWVZ",
-        "emoji": "📀",
-        "tags": [
-            "🏆Total Profit: 🟢 +$476.3K"
-        ]
-    },
-    {
         "name": "Profit: +$10.5K",
         "address": "3kebnKw7cPdSkLRfiMEALyZJGZ4wdiSRvmoN4rD1yPzV",
         "emoji": "🖥️",
@@ -1588,35 +1437,11 @@
         ]
     },
     {
-        "name": "Profit: +$43.9K",
-        "address": "D9mTZDGCXgLah9nsyuiKzACQwF5kcUKkrM2q49h9Mb7h",
-        "emoji": "🏗️",
-        "tags": [
-            "🏆Total Profit: 🟢 +$160.9K"
-        ]
-    },
-    {
         "name": "Profit: +$13.2K",
         "address": "DDWKyc33M5RBvP5BApjS3tLWXhUCVDekCKK11aQYzDH3",
         "emoji": "💊",
         "tags": [
             "🏆Total Profit: 🟢 +$1.2M"
-        ]
-    },
-    {
-        "name": "Profit: +$100K",
-        "address": "CcTMq5wKfCPtXtxb5fscsX55fc6UrksvdT4mpoCAhKkk",
-        "emoji": "🔼",
-        "tags": [
-            "🏆Total Profit: 🟢 +$889.1K"
-        ]
-    },
-    {
-        "name": "Profit: +$44.2K",
-        "address": "ELiZM1ZKTWUoNYABoCXphDMEbdFoGbGd7PiptJmyt5nu",
-        "emoji": "⏫️",
-        "tags": [
-            "🏆Total Profit: 🟢 +$239.7K"
         ]
     },
     {
@@ -1692,14 +1517,6 @@
         ]
     },
     {
-        "name": "Profit: +$5.6K",
-        "address": "BJ4cGtMdWjbbg6N3CYXWDpV2qxCdVH1C2v4Lgdzh5apf",
-        "emoji": "🏛️",
-        "tags": [
-            "🏆Total Profit: 🟢 +$61.3K"
-        ]
-    },
-    {
         "name": "Profit: +$206.5",
         "address": "HbCxe8yWQJWnK3f3FX4oohgm87FZuPYD4Ydszqxgkwft",
         "emoji": "🏞️",
@@ -1712,7 +1529,7 @@
         "address": "RFSqPtn1JfavGiUD4HJsZyYXvZsycxf31hnYfbyG6iB",
         "emoji": "🍇",
         "tags": [
-            "🏆Total Profit: 🟢 +$5M（+8.5%）"
+            "🏆Total Profit: 🟢 +$4.9M"
         ]
     },
     {
@@ -1720,7 +1537,7 @@
         "address": "89sv9G3VcawEwFtCyn4niuiRfkAZmnBWmRyYCScYtTkM",
         "emoji": "🍈",
         "tags": [
-            "🏆Total Profit: 🟢 +$525.1K（+4.2%）"
+            "🏆Total Profit: 🟢 +$529.7K"
         ]
     },
     {
@@ -1728,15 +1545,7 @@
         "address": "GJthPDTPkhvp3q9VqrXeJxeMxYwk6Kazf2rfkVAXasGQ",
         "emoji": "🍉",
         "tags": [
-            "🏆Total Profit: 🟢 +$816.9K（+11.8%）"
-        ]
-    },
-    {
-        "name": "Profit: +$27.5K",
-        "address": "2HWT2KLLdN2wxYTqdSuko5SBzg2SEJASgV4GE2tD7TML",
-        "emoji": "🍊",
-        "tags": [
-            "🏆Unrealized Profits: 🟢 +$11.8K（+0.1%）"
+            "🏆Total Profit: 🟢 +$808.2K"
         ]
     },
     {
@@ -1744,7 +1553,7 @@
         "address": "B9Zbs2W9VK22AHnCWiK4PqBueDFzN17RNAFu5uFozLMJ",
         "emoji": "🍋",
         "tags": [
-            "🏆Total Profit: 🟢 +$1.3M（+14.6%）"
+            "🏆Total Profit: 🟢 +$1.3M"
         ]
     },
     {
@@ -1752,15 +1561,7 @@
         "address": "83QQFLxcEzuJZaejBnzAiW5tyfyaRHMLZnkhJbRPRWtf",
         "emoji": "🍋‍🟩",
         "tags": [
-            "🏆Total Profit: 🟢 +$2.4M（+10.2%）"
-        ]
-    },
-    {
-        "name": "Profit: +$22.6K",
-        "address": "3GfP47xWmrfqXyrM7a4Wc3Z1Te6uAsiiuyTxEkDdGP3h",
-        "emoji": "🍌",
-        "tags": [
-            "🏆Total Profit: 🟢 +$39.6K（+8.3%）"
+            "🏆Total Profit: 🟢 +$2.5M"
         ]
     },
     {
@@ -1768,23 +1569,15 @@
         "address": "beatXW1PmeVVXxebbyLuc3uKy2Vj8mt6vedBhP9AYXo",
         "emoji": "🍍",
         "tags": [
-            "🏆Total Profit: 🟢 +$79.1K（+3.8%）"
+            "🏆Total Profit: 🟢 +$106.1K"
         ]
     },
     {
-        "name": "🟢7d Realized Profit: +$9.3K",
+        "name": "7d PNL: +$9.3K",
         "address": "FjeaKDFAgexEPZbAFHwE4cL1MFvn1o6EL1qehcmVStCX",
         "emoji": "🥭",
         "tags": [
-            "🏆Total Profit: 🟢 +$126K（+4.6%）"
-        ]
-    },
-    {
-        "name": "🟢7d Realized Profit: +$126.6K",
-        "address": "8hjfBLZ6kA5MiMYPaCT6R5KAe1XtgARPLnCwnpiS9wg9",
-        "emoji": "🍎",
-        "tags": [
-            "🏆Total Profit: 🟢 +$1.2M（+68.3%）"
+            "🏆Total Profit: 🟢 +$131.1K"
         ]
     },
     {
@@ -1792,59 +1585,43 @@
         "address": "Gw14GFPi2bWV5784Vm5gHBpqgkdMz2zwm5U1LCWz9p6o",
         "emoji": "🍏",
         "tags": [
-            "🏆Total Profit: 🟢 +$128.9K（+24.8%）"
+            "🏆Total Profit: 🟢 +$177.8K"
         ]
     },
     {
-        "name": "🟢7d Realized Profit: +$10.6K",
+        "name": "7d PNL: +$10.6K",
         "address": "2xKDETThQeNxPZAtkicq8UABrRQtyRfHTwCs57mTpFFQ",
         "emoji": "🍐",
         "tags": [
-            "🏆Total Profit: 🟢 +$82.3K（+3.5%）"
+            "🏆Total Profit: 🟢 +$89.2K"
         ]
     },
     {
-        "name": "🟢7d Realized Profit: +$17K",
+        "name": "7d PNL: +$17K",
         "address": "GyiAMVLuUq2n4bqxhhjzr2ZasnHXZ3b1jJiU5YbB4HJL",
         "emoji": "🍑",
         "tags": [
-            "🏆Total Profit: 🟢 +$82.3K（+6%）"
+            "🏆Total Profit: 🟢 +$94.7K"
         ]
     },
     {
-        "name": "🟢7d Realized Profit: +$84.4K",
-        "address": "2o8kw97MDxL2h5n466RZ1ATRTvQGA6MnEE7aPc6M31Yg",
-        "emoji": "🍒",
-        "tags": [
-            "🏆Total Profit: 🟢 +$750.4K（+35.2%）"
-        ]
-    },
-    {
-        "name": "🟢7d Realized Profit: +$41.9K",
+        "name": "7d PNL: +$41.9K",
         "address": "36DWP52MVRDooYNrcRVDyoCh2R1fPXCYqKJQYg9pFQoE",
         "emoji": "🫐",
         "tags": [
-            "🏆Total Profit: 🟢 +$955.9K（+12.6%）"
+            "🏆Total Profit: 🟢 +$954.7K"
         ]
     },
     {
-        "name": "🟢7d Realized Profit: +$15.2K",
+        "name": "7d PNL: +$15.2K",
         "address": "5Hyf6srdbrrD1HLjqxcFbXJRFBHgnwoZc7aZRj8vDuk5",
         "emoji": "🥝",
         "tags": [
-            "🏆Total Profit: 🟢 +$1.4M（+10.7%）"
+            "🏆Total Profit: 🟢 +$1.4M"
         ]
     },
     {
-        "name": "🟢7d Realized Profit: +$206.5K",
-        "address": "C54HqP4FebfhMygANRiQQfLBtJwn2PpRsc9wGpHFrqcV",
-        "emoji": "🍅",
-        "tags": [
-            "🏆Total Profit: 🟢 +$206.5K（+28.4%）"
-        ]
-    },
-    {
-        "name": "🟢7d Realized Profit: +$41.6K",
+        "name": "7d PNL: +$41.6K",
         "address": "6x13RjmWK7RYAmQbQTRxw1H3PpNT4FDkZy6nBxpLXk3j",
         "emoji": "🫒",
         "tags": [
@@ -1852,7 +1629,7 @@
         ]
     },
     {
-        "name": "🟢7d Realized Profit: +$23K",
+        "name": "7d PNL: +$23K",
         "address": "9kwRFrDgoMjLxiwip7L31ehrJHV4NkKfDvPXuczj7cTt",
         "emoji": "🥑",
         "tags": [
@@ -1860,7 +1637,7 @@
         ]
     },
     {
-        "name": "🟢7d Realized Profit: +$28.3K",
+        "name": "7d PNL: +$28.3K",
         "address": "ELG1cajXai8CJM7hCgduKGVsMrEABXqzpjGpS2T8nvWD",
         "emoji": "🍆",
         "tags": [
@@ -1868,7 +1645,7 @@
         ]
     },
     {
-        "name": "🟢7d Realized Profit: +$45.4K",
+        "name": "7d PNL: +$45.4K",
         "address": "7GhWwhaMgbKiRWxF93Bud6HnHMci6NCLTJyTxG8zFH51",
         "emoji": "🥔",
         "tags": [
@@ -1876,7 +1653,7 @@
         ]
     },
     {
-        "name": "🟢7d Realized Profit: +$332.1K",
+        "name": "🟢7d PNL: $332K",
         "address": "Dr7V12M5AcXAC2EEdzMHmwYwgUQbhUcT791szi5pzggw",
         "emoji": "🥕",
         "tags": [
@@ -1884,15 +1661,7 @@
         ]
     },
     {
-        "name": "🟢7d Realized Profit: +$62.1K",
-        "address": "41RamTwEszaQ9J8L2TqmrpUvs5uLtKTAL8rJLyJnAU6o",
-        "emoji": "🌽",
-        "tags": [
-            "🏆Total Profit: 🟢 +$433.3K（+49%）"
-        ]
-    },
-    {
-        "name": "🟢7d Realized Profit: +$41.4K",
+        "name": "7d PNL:$41.4K",
         "address": "dKMjeGJ4Mk9S3hxdfTThvZ7exks2xMwWqSM5NvN2CTK",
         "emoji": "🌐",
         "tags": [
@@ -1900,15 +1669,7 @@
         ]
     },
     {
-        "name": "🟢7d Realized Profit: +$55.7K",
-        "address": "FkHewnN1Z1NkvcvYM45kRtcDtsPPS33CqiV9fMMZ5GnN",
-        "emoji": "🏞️",
-        "tags": [
-            "🏆Total Profit: 🟢 +$328.4K（+16.6%）"
-        ]
-    },
-    {
-        "name": "🟢7d Realized Profit: +$13.9K",
+        "name": "7d PNL: +$13.9K",
         "address": "7smNZTD8fQhAVVY4bRCotPwY5sSqSA6sZQndJNXLiSCT",
         "emoji": "🧱",
         "tags": [
@@ -1916,7 +1677,7 @@
         ]
     },
     {
-        "name": "🟢7d Realized Profit: +$20.2K",
+        "name": "7d PNL: +$20.2K",
         "address": "AU8Ffi94rTmRwW3F8nx4d1iudWz1hSGi9j4GLCtfVZwz",
         "emoji": "🏟️",
         "tags": [
@@ -1924,7 +1685,7 @@
         ]
     },
     {
-        "name": "🟢7d Realized Profit: +$22K",
+        "name": "7d PNL:: +$22K",
         "address": "DCJ9xfTPK7wu1PE2i9sDy2jtpTcUhWJeR7eYPCzgyx2D",
         "emoji": "🌅",
         "tags": [
@@ -1932,7 +1693,7 @@
         ]
     },
     {
-        "name": "🟢7d Realized Profit: +$48.6K",
+        "name": "7d PNL: +$48.6K",
         "address": "8C34YPX2uHxPNksbG1qajrcVYLVD8twYEeKabrsrG9uh",
         "emoji": "🏯",
         "tags": [
@@ -1940,7 +1701,7 @@
         ]
     },
     {
-        "name": "🟢7d Realized Profit: +$14.8K",
+        "name": "7d PNL: +$14.8K",
         "address": "EccexFiBxvJYvdQ29GdH2ZGvgfjKwa5KXj4Fe6XWoaEb",
         "emoji": "⛄️",
         "tags": [
@@ -1948,7 +1709,7 @@
         ]
     },
     {
-        "name": "🟢7d Realized Profit: +$38.8K",
+        "name": "7d PNL: +$38.8K",
         "address": "DjvE5FBMzRMhgrzqwhjv98YqDshxXJutrcDbRgXDgm88",
         "emoji": "❄️",
         "tags": [
@@ -1956,7 +1717,7 @@
         ]
     },
     {
-        "name": "🟢7d Realized Profit: +$12K",
+        "name": "7d PNL: +$12K",
         "address": "Enb8CNDi5ToFrnDjvsbWWrtBVHaX5n6RdFRniE88mbFr",
         "emoji": "💧",
         "tags": [
@@ -1964,7 +1725,7 @@
         ]
     },
     {
-        "name": "🟢7d Realized Profit: +$18.9K",
+        "name": "7d PNL: +$18.9K",
         "address": "7fUaeJtTSg9NcgerLpbByEAwsGyu2goXC4r3j439v4am",
         "emoji": "⚽️",
         "tags": [
@@ -1972,15 +1733,7 @@
         ]
     },
     {
-        "name": "🟢7d Realized Profit: +$8.3K",
-        "address": "DoWxTJ9qgLr6hMpyr9zLXYvKv3MCkZUa77rNcwevWN1K",
-        "emoji": "🎭️",
-        "tags": [
-            "🏆Total Profit: 🟢 +$73.7K（+17.6%）"
-        ]
-    },
-    {
-        "name": "🟢7d Realized Profit: +$30.6K",
+        "name": "7d PNL: +$30.6K",
         "address": "7Z9Av4QVUiuBfpW3yrgVyVsUUQBmJDr3UufFrutUtW7L",
         "emoji": "🧸",
         "tags": [
@@ -1988,15 +1741,7 @@
         ]
     },
     {
-        "name": "🟢7d Realized Profit: +$206.8K",
-        "address": "BnCz7HWZgVKTAQzaEfY81aFfYuNoaMBArRa55hQJBLDT",
-        "emoji": "🫧",
-        "tags": [
-            "🏆Total Profit: 🟢 +$216.4K（+47.4%）"
-        ]
-    },
-    {
-        "name": "🟢7d Realized Profit: +$78.2K",
+        "name": "7d PNL: +$78.2K",
         "address": "2JFFNVcvKQn8NkadcWepGnF56MiDnQYYGRCdcYLoWJxh",
         "emoji": "🧼",
         "tags": [
@@ -2004,15 +1749,7 @@
         ]
     },
     {
-        "name": "🟢7d Realized Profit: +$75.5K",
-        "address": "CMU153fS2jEsWcX2kUC3qaHs6rKNSJmC9Kce2otFjXBA",
-        "emoji": "🪟",
-        "tags": [
-            "🏆Total Profit: 🟢 +$64.2K（+9.8%）"
-        ]
-    },
-    {
-        "name": "🟢7d Realized Profit: +$19.4K",
+        "name": "7d PNL: +$19.4K",
         "address": "5HAWUyfg55X8YeWiygWjX1x9cxbhjv7yorcGLkKKTREW",
         "emoji": "🪩",
         "tags": [
@@ -2020,7 +1757,7 @@
         ]
     },
     {
-        "name": "🟢7d Realized Profit: +$76.7K",
+        "name": "7d PNL: +$76.7K",
         "address": "J95BAyaPhFXMFLrzSxjVvwzjefk9FCgxscMpuCmsUJYG",
         "emoji": "🪵",
         "tags": [
@@ -2028,7 +1765,7 @@
         ]
     },
     {
-        "name": "🟢7d Realized Profit: +$6.6K",
+        "name": "7d PNL: +$6.6K",
         "address": "GxCX9bkmnaDR9YHM6MF7Q65eStFgiDoDJ43j51hAyNiU",
         "emoji": "⛺️",
         "tags": [
@@ -2036,7 +1773,7 @@
         ]
     },
     {
-        "name": "🟢7d Realized Profit: +$3.4K",
+        "name": "7d PNL: +$3.4K",
         "address": "FYTiZbk17NNPQ5j1aRH67mhJZH3ggYcmwbQqqEN9GAk5",
         "emoji": "🏜️",
         "tags": [
@@ -2044,7 +1781,7 @@
         ]
     },
     {
-        "name": "🟢7d Realized Profit: +$42.7K",
+        "name": "7d PNL: +$42.7K",
         "address": "HtucFepgUkMpHdrYsxMqjBNN6qVBdjmFaLZneNXopuJm",
         "emoji": "🔔",
         "tags": [
@@ -2052,7 +1789,7 @@
         ]
     },
     {
-        "name": "🟢7d Realized Profit: +$19.1K",
+        "name": "7d PNL: +$19.1K",
         "address": "215nhcAHjQQGgwpQSJQ7zR26etbjjtVdW74NLzwEgQjP",
         "emoji": "🎹",
         "tags": [
@@ -2061,7 +1798,7 @@
         ]
     },
     {
-        "name": "🟢7d Realized Profit: +$28.3K",
+        "name": "7d PNL: +$28.3K",
         "address": "EcJWNtETrzdbj8s2dXpaE4Tu4r7fxALD6TNw9H8S6ksz",
         "emoji": "🔊",
         "tags": [
@@ -2069,7 +1806,7 @@
         ]
     },
     {
-        "name": "🟢7d Realized Profit: +$36.3K",
+        "name": "7d PNL: +$36.3K",
         "address": "2iCmwtaM14u5XijJ6Wx6pbxSqvvPbvzUVXAhk1B4aEtr",
         "emoji": "🖥️",
         "tags": [
@@ -2077,15 +1814,7 @@
         ]
     },
     {
-        "name": "🟢7d Realized Profit: +$65.5K",
-        "address": "GwyG5FQRNtY1faXYWdTLbcDNZTyW5d2Z63o1UiMUDQDT",
-        "emoji": "🥋",
-        "tags": [
-            "🏆Total Profit: 🔴 -$140.4K（-1.6%）"
-        ]
-    },
-    {
-        "name": "🟢7d Realized Profit: +$49.2K",
+        "name": "7d PNL: +$49.2K",
         "address": "kwhcooMFSt8k8S1RbdygHiYkAtyVVwcPMhyqBecTzBU",
         "emoji": "🚃",
         "tags": [
@@ -2093,7 +1822,7 @@
         ]
     },
     {
-        "name": "🟢7d Realized Profit: +$33.4K",
+        "name": "7d PNL: +$33.4K",
         "address": "FgWxH43h72i43vQwaSo8Zd43nG9Eh5ErrG2ZkNShzk44",
         "emoji": "♠️",
         "tags": [
@@ -2101,7 +1830,7 @@
         ]
     },
     {
-        "name": "🟢7d Realized Profit: +$62.3K",
+        "name": "7d PNL: +$62.3K",
         "address": "GTGfBACXMvfi5D79zjFZZ8ixvkPRtqLxY9H2ufLUCxVQ",
         "emoji": "🀄️",
         "tags": [
@@ -2109,7 +1838,7 @@
         ]
     },
     {
-        "name": "🟢7d Realized Profit: +$8.6K",
+        "name": "7d PNL +$8.6K",
         "address": "SCAMFxT4DFRNneiHmYE18QsG1UuyDkyPARxMq4ntmMz",
         "emoji": "🧶",
         "tags": [
@@ -2117,7 +1846,7 @@
         ]
     },
     {
-        "name": "🟢7d Realized Profit: +$97.4K",
+        "name": "7d PNL: +$97.4K",
         "address": "S226UMCKLqM6JkiNNkxn5GYsw4WX8JWWiukC8fsUHAX",
         "emoji": "🪪",
         "tags": [
@@ -2125,7 +1854,7 @@
         ]
     },
     {
-        "name": "🟢7d Realized Profit: +$17.1K",
+        "name": "7d PNL: +$17.1K",
         "address": "CCn3mLvVDmgjq1oRGJ1E7dUSZHBhBuVxruoWzY9MTAz6",
         "emoji": "🦾",
         "tags": [
@@ -2133,7 +1862,7 @@
         ]
     },
     {
-        "name": "🟢7d Realized Profit: +$45.2K",
+        "name": "7d PNL: +$45.2K",
         "address": "H6pCuJzzW9dN188UiaX1hsuUedPKn2aCz1iMGucUKUzk",
         "emoji": "🈁",
         "tags": [
@@ -2141,7 +1870,7 @@
         ]
     },
     {
-        "name": "🟢7d Realized Profit: +$11.9K",
+        "name": "7d PNL: +$11.9K",
         "address": "8cztdSB5pqxrNMGqRnHoPYP71qbeyLe6YeafCmYaBdT6",
         "emoji": "🧵",
         "tags": [
@@ -2157,19 +1886,11 @@
         ]
     },
     {
-        "name": "🟢7d Realized Profit: +$99.8K",
+        "name": "7d PNL: +$99.8K",
         "address": "7zjJCCybyxxBsEp4D7a59Z5W7i7KP5Sr1hYMmbvUAZaM",
         "emoji": "🪆",
         "tags": [
             "🏆Total Profit: 🟢 +$95.7K（+23.5%）"
-        ]
-    },
-    {
-        "name": "🟢7d Realized Profit: +$156.2K",
-        "address": "3MfmnGLiEDwVQBqapeaE4eLo8BVhaz2R22nggqsL63Wb",
-        "emoji": "🍵",
-        "tags": [
-            "🏆Total Profit: 🟢 +$408.3K（+84.8%）"
         ]
     },
     {
@@ -2205,14 +1926,6 @@
         ]
     },
     {
-        "name": "🟢7d Realized Profit: +$30.2K",
-        "address": "DippLkJSr3GzNuz8Qep5gUxkHUqNig2Loh9tR5TMNQx8",
-        "emoji": "🍰",
-        "tags": [
-            "🏆Total Profit: 🟢 +$146.1K（+9%）"
-        ]
-    },
-    {
         "name": "🟢7d Realized Profit: +$70.4K",
         "address": "GEFEnbP1nxyKiKNyW7By7QyJ2eQMZi5PHpRprHZv4qh9",
         "emoji": "🍧",
@@ -2221,43 +1934,11 @@
         ]
     },
     {
-        "name": "🟢7d Realized Profit: +$14.1K",
-        "address": "EBUBamEwtcosyNmoBBcUpZ9VsBxd8PsTuKjRWyHuSvcF",
-        "emoji": "🛢️",
-        "tags": [
-            "🏆Total Profit: 🟢 +$118.7K（+11.7%）"
-        ]
-    },
-    {
-        "name": "🟢7d Realized Profit: +$90K",
-        "address": "Bc3ryY3BPSPcdDHcmxrLYPmU1WrzgtPmByrDuxjYFSyw",
-        "emoji": "⌚️",
-        "tags": [
-            "🏆Total Profit: 🟢 +$135.9K（+13.9%）"
-        ]
-    },
-    {
         "name": "🟢7d Realized Profit: +$40K",
         "address": "A97if1jNhZrX22jyQUqm3aNLR68cZ3rSxtnW9q11NpFT",
         "emoji": "😀",
         "tags": [
             "🏆Total Profit: 🟢 +$161.1K（+3%）"
-        ]
-    },
-    {
-        "name": "🟢7d Realized Profit: +$230.9K",
-        "address": "j1oAbxxiDUWvoHxEDhWE7THLjEkDQW2cSHYn2vttxTF",
-        "emoji": "💎",
-        "tags": [
-            "🏆Total Profit: 🟢 +$346.1K（+3.3%）"
-        ]
-    },
-    {
-        "name": "🟢7d Realized Profit: +$289.5K",
-        "address": "j1oeQoPeuEDmjvyMwBmCWexzCQup77kbKKxV59CnYbd",
-        "emoji": "💰️",
-        "tags": [
-            "🏆Total Profit: 🟢 +$368.3K（+2.9%）"
         ]
     },
     {
@@ -2468,6 +2149,319 @@
         "emoji": "😀",
         "tags": [
             "🏆Total Profit: 🟢 +$1.2M（+29.7%）"
+        ]
+    },
+    {
+        "name": "🟢7d Realized Profit: +$29.2K",
+        "address": "13H2M1C3w2pwr6oYf6ZKcPGNut6mQedRAFzCpMF2iGJK",
+        "emoji": "🎆",
+        "tags": [
+            "🏆Total Profit: 🟢 +$378.3K（+3.2%）"
+        ]
+    },
+    {
+        "name": "🟢7d Realized Profit: +$126.3K",
+        "address": "2nNZ3i4GWFU35UyCEW3QX3VFfgaBGLd2M1z3tpGGCHQF",
+        "emoji": "⚓️",
+        "tags": [
+            "🏆Total Profit: 🟢 +$1.3M（+38%）"
+        ]
+    },
+    {
+        "name": "🟢7d Realized Profit: +$24.7K",
+        "address": "36uMzizQz5Vk97WfA2Tn3k86CLYXhnNCJ45kkTpqmn6e",
+        "emoji": "🥎",
+        "tags": [
+            "🏆Total Profit: 🟢 +$75.3K（+4.3%）"
+        ]
+    },
+    {
+        "name": "🟢7d Realized Profit: +$13.4K",
+        "address": "3BpEqkn9nxkYPCyYrxbxZ31twu8j7XDqXSFLstRSJ246",
+        "emoji": "🏉",
+        "tags": [
+            "🏆Total Profit: 🟢 +$16.6K（+0.7%）"
+        ]
+    },
+    {
+        "name": "🟢7d Realized Profit: +$42.9K",
+        "address": "5tN1HeFA6SokfuESFwDAJ6kbuUKDTCkM3VsZRiT1nrN8",
+        "emoji": "🎁",
+        "tags": [
+            "🏆Total Profit: 🟢 +$579.8K（+6.9%）"
+        ]
+    },
+    {
+        "name": "🟢7d Realized Profit: +$85.3K",
+        "address": "689PgJFtc6AJRvnCGNzhiHYfRjpbaxsAMvE2kLL819vW",
+        "emoji": "🎫",
+        "tags": [
+            "🏆Total Profit: 🟢 +$193.1K（+4.8%）"
+        ]
+    },
+    {
+        "name": "🟢7d Realized Profit: +$13.2K",
+        "address": "6HJetMbdHBuk3mLUainxAPpBpWzDgYbHGTS2TqDAUSX2",
+        "emoji": "🪪",
+        "tags": [
+            "🏆Total Profit: 🟢 +$126.2K（+5.3%）"
+        ]
+    },
+    {
+        "name": "🟢7d Realized Profit: +$18.4K",
+        "address": "6miAz9DyP6Us6KRzudmuZHpnemiSENnJc8VxBoJSqjA5",
+        "emoji": "🗿",
+        "tags": [
+            "🏆Total Profit: 🟢 +$420.6K（+8.3%）"
+        ]
+    },
+    {
+        "name": "🟢7d Realized Profit: +$37.4K",
+        "address": "8A1sDiFY719myQceLmHboNBaEbtc6rKbjrf1B5zNvgLi",
+        "emoji": "🧿",
+        "tags": [
+            "🏆Total Profit: 🟢 +$228.4K（+1.9%）"
+        ]
+    },
+    {
+        "name": "🟢7d Realized Profit: +$11.3K",
+        "address": "93YE7VPYfrieXU1uL5c1YGWvv2N4JLcJ8hhxPJexKmwH",
+        "emoji": "⚱️",
+        "tags": [
+            "🏆Total Profit: 🟢 +$156.3K（+16.5%）"
+        ]
+    },
+    {
+        "name": "🟢7d Realized Profit: +$26K",
+        "address": "AWM8NrmGtYTfN7zexkjeNePNiMbEacZJ8oGrxv6zrGkX",
+        "emoji": "🪦",
+        "tags": [
+            "🏆Total Profit: 🟢 +$395.8K（+8.3%）"
+        ]
+    },
+    {
+        "name": "🟢7d Realized Profit: +$21.4K",
+        "address": "BMkHjN2N8K2PdCqeC92YYjUovn9ecW4GvFpH6yDggXWJ",
+        "emoji": "🚬",
+        "tags": [
+            "🏆Total Profit: 🟢 +$80.4K（+3.9%）"
+        ]
+    },
+    {
+        "name": "🟢7d Realized Profit: +$13.9K",
+        "address": "CN4AG1iqQeLaZrQB2qsfJaAQgUBHeSXUK6UvC31n77UJ",
+        "emoji": "🧯",
+        "tags": [
+            "🏆Total Profit: 🟢 +$108.8K（+0.9%）"
+        ]
+    },
+    {
+        "name": "🟢7d Realized Profit: +$9.5K",
+        "address": "CtYDqNRtRxgCd66cGXNScnnSEEY1q1bWu5D9dhTEoftn",
+        "emoji": "🧴",
+        "tags": [
+            "🏆Total Profit: 🟢 +$269.4K（+3.9%）"
+        ]
+    },
+    {
+        "name": "🟢7d Realized Profit: +$152.3K",
+        "address": "FSWTqhTnTPjMH4nUfig5a1KqRP9AUZzKGSwTiH24oRUR",
+        "emoji": "🧷",
+        "tags": [
+            "🏆Total Profit: 🟢 +$1M（+6.5%）"
+        ]
+    },
+    {
+        "name": "🟢7d Realized Profit: +$41.4K",
+        "address": "H8KTT1e3F4u9Mw4cn4byAS4Uv1LZJv7QRDr46UPKAMe7",
+        "emoji": "🩹",
+        "tags": [
+            "🏆Total Profit: 🟢 +$211K（+2.5%）"
+        ]
+    },
+    {
+        "name": "7d PNL: +$9.7K",
+        "address": "XDpDXxD5NVGJZKG8W1yZQz5aVFNcJS7tjHYLM3wUhyT",
+        "emoji": "🪟",
+        "tags": [
+            "🏆Total Profit: 🟢 +$43.2K"
+        ]
+    },
+    {
+        "name": "7d PNL: +$18K",
+        "address": "BTf4A2exGK9BCVDNzy65b9dUzXgMqB4weVkvTMFQsadd",
+        "emoji": "🧰",
+        "tags": [
+            "https://x.com/Kevsznx",
+            "🏆Total Profit: 🟢 +$948.3K"
+        ]
+    },
+    {
+        "name": "7d PNL: +$10.6K",
+        "address": "HL3FZ8XWnLnn1HuktmgpNRyFRjuAxWbXNQVj5fPPzZwt",
+        "emoji": "⛓️‍💥",
+        "tags": [
+            "🏆Total Profit: 🟢 +$929.7K"
+        ]
+    },
+    {
+        "name": "7d PNL: +$23.3K",
+        "address": "7byPJ1nArieYopH1sR32BirQvEiA7hBNN5CPPPyzHDWC",
+        "emoji": "🔑",
+        "tags": [
+            "🏆Total Profit: 🟢 +$2.6M"
+        ]
+    },
+    {
+        "name": "7d PNL: +$6.1K",
+        "address": "F2SuErm4MviWJ2HzKXk2nuzBC6xe883CFWUDCPz6cyWm",
+        "emoji": "✉️",
+        "tags": [
+            "🏆Total Profit: 🟢 +$862.6K"
+        ]
+    },
+    {
+        "name": "7d PNL: +$31.2K",
+        "address": "BhbC2u5tpEzWEUjmYBdSMZJLdv3Mi2u7cA6wCEySs5Ka",
+        "emoji": "🎧️",
+        "tags": [
+            "🏆Total Profit: 🟢 +$311K"
+        ]
+    },
+    {
+        "name": "7d PNL: +$14.2K",
+        "address": "B4PY3iiPN5L5TTX4mGmj66MkfEAzy9pUSBmPRt13mqvv",
+        "emoji": "🩳",
+        "tags": [
+            "🏆Total Profit: 🟢 +$842.7K"
+        ]
+    },
+    {
+        "name": "7d PNL: +$9.2K",
+        "address": "TAB16RxXmazWzCTpJbnKiREWUybdEoskuyidaV291u3",
+        "emoji": "🩲",
+        "tags": [
+            "🏆Total Profit: 🟢 +$840.2K"
+        ]
+    },
+    {
+        "name": "7d Profit: +$12.5K",
+        "address": "HPugSE3C425743SSXPtn7DPhxQW2tPL1EeTHbDe6554o",
+        "emoji": "🩰",
+        "tags": [
+            "🏆Total Profit: 🟢 +$262.8K"
+        ]
+    },
+    {
+        "name": "7D Profit: +$23K",
+        "address": "UxuuMeyX2pZPHmGZ2w3Q8MysvExCAquMtvEfqp2etvm",
+        "emoji": "🧦",
+        "tags": [
+            "🏆Total Profit: 🟢 +$174.4K"
+        ]
+    },
+    {
+        "name": "7D Profit: +$21.8K",
+        "address": "EeXvxkcGqMDZeTaVeawzxm9mbzZwqDUMmfG3bF7uzumH",
+        "emoji": "🥻",
+        "tags": [
+            "🏆Total Profit: 🟢 +$174.8K"
+        ]
+    },
+    {
+        "name": "7D Profit: +$21.3K",
+        "address": "Dgehc8YMv6dHsiPJVoumvq4pSBkMVvrTgTUg7wdcYJPJ",
+        "emoji": "🩴",
+        "tags": [
+            "🏆Total Profit: 🟢 +$322.5K"
+        ]
+    },
+    {
+        "name": "7D Profit: +$29.1K",
+        "address": "8uWXcvQ3uCQ3WYwNy7M6pzMsQ85ZkYRkGDkEaisx5TNG",
+        "emoji": "🎚️",
+        "tags": [
+            "🏆Total Profit: 🟢 +$29.1K"
+        ]
+    },
+    {
+        "name": "7D Profit: +$35.3K",
+        "address": "2BSwyjCDsxVEXf7DNaqt8ySoaodfuufEpFTxifFHSrsV",
+        "emoji": "🎰",
+        "tags": [
+            "🏆Total Profit: 🟢 +$487.2K"
+        ]
+    },
+    {
+        "name": "7D Profit: +$32.8K",
+        "address": "5cs59HeEs1hAsoKot162jGP5xBxCCVHLgmZTu2U7VFBr",
+        "emoji": "📠",
+        "tags": [
+            "🏆Total Profit: 🟢 +$279K"
+        ]
+    },
+    {
+        "name": "7D Profit: +$17.4K",
+        "address": "Aemby6yXpjA8CzFoq7cDbgPah5iuTgdnmLt8rFHBTUi8",
+        "emoji": "🪗",
+        "tags": [
+            "🏆Total Profit: 🟢 +$448.8K"
+        ]
+    },
+    {
+        "name": "7D Profit: +$9.1K",
+        "address": "HLLXwFZN9CHTct5K4YpucZ137aji27EkkJ1ZaZE7JVmk",
+        "emoji": "📻️",
+        "tags": [
+            "🏆Total Profit: 🟢 +$371.2K"
+        ]
+    },
+    {
+        "name": "7D Profit: +$9.6K",
+        "address": "CxgPWvH2GoEDENELne2XKAR2z2Fr4shG2uaeyqZceGve",
+        "emoji": "🪇",
+        "tags": [
+            "🏆Total Profit: 🟢 +$252.4K"
+        ]
+    },
+    {
+        "name": "7D Profit: +$16.1K",
+        "address": "9UbBoNWU5UA2h2uScAisxurifDLGyQs6bLEc5jnrEMPz",
+        "emoji": "🖲️",
+        "tags": [
+            "🏆Total Profit: 🟢 +$724.5K"
+        ]
+    },
+    {
+        "name": "7D Profit: +$23.3K",
+        "address": "DBHWTSdcVPVUKvwopw4j91Nv8sqWEJBdmD4o7R4Vx5Pi",
+        "emoji": "🧮",
+        "tags": [
+            "🏆Total Profit: 🟢 +$668.5K"
+        ]
+    },
+    {
+        "name": "7D Profit: +$10K",
+        "address": "4SbDMrX8Zfj7qZtRKTBSQEavPkc7BP1kiJfT2f3dn8RL",
+        "emoji": "📺️",
+        "tags": [
+            "🏆Total Profit: 🟢 +$937.3K"
+        ]
+    },
+    {
+        "name": "7D Profit: +$12.8K",
+        "address": "4RePs4EchMosyRENfkUFwZcjgMsdTt9SzYMZomtvRQEi",
+        "emoji": "🎞️",
+        "tags": [
+            "🏆Total Profit: 🟢 +$314.3K"
+        ]
+    },
+    {
+        "name": "Profit: +$6.7K",
+        "address": "9Nkdp6EwppBZgCnWjmYhWP8q5Ws9LNnV3FGhVPNrFEMw",
+        "emoji": "🖍️",
+        "tags": [
+            "🏆Total Profit: 🟢 +$75.6K"
         ]
     }
 ]
